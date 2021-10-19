@@ -1,2 +1,2 @@
-# NeerajTiwari_DataStructureAssignmentSolution
-DataStructureAssignmentSolution
+# RachitKumarRastogi_DataStructureAssignmentSolution
+Data Structure Assignment Solution
